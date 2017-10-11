@@ -1,0 +1,1 @@
+Congratulations! You can read this file from 'public' folder!
